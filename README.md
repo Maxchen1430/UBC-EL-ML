@@ -7,3 +7,7 @@ For this project, I was given the data set *cheese_data.csv*, which contains rel
 The final ML model that works best is a **RandomForestClassifier with a balanced class weight**; after putting the model through **RandomSearchCV** and a confusion matrix, the classification report indicated a lack of underfitting nor overfitting, thus making it the best model to predict the fat level in the *cheese_data.csv*.
 
 For more information, please download and open the HTML or Jupyter Notebook file (HTML might be easier should you not have Anaconda or Jupyter Notebook installed).
+
+## Medium Article Link
+For a cleaner and more streamlined reading experience, please visit my Medium article via this link: 
+https://medium.com/@maxchen1430/fat-level-prediction-in-cheese-99d161d7bf57 
